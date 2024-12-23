@@ -124,7 +124,6 @@ cd dashboard-goandreact
 ### **Frontend**
 - Build Tool: [Vite](https://vitejs.dev/)
 - Biblioteca: [React](https://reactjs.org/)
-- Gerenciador de Pacotes: [PNPM](https://pnpm.io/)
 - UI Library: [Radix UI](https://www.radix-ui.com/)
 
 ---
